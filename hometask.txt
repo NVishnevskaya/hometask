@@ -1,0 +1,24 @@
+Отличаются наличием 1 пустой строки в конце.
+Коммиты на удаленном репозитории(всего: 3 + 2 + 3 + 2 + 7 = 17):
+-> master(3): 
+	- fix
+	- README added
+	- init
+-> boots(2):
+	- boots
+	- init
+-> buttons(3):
+	- dots
+	- README added
+	- init
+-> hat(2):
+	- heat added
+	- init
+-> demo(7):
+	- Merge branch 'buttons' into demo
+	- dots
+	- README added
+	- Merge branch 'boots' into release
+	- boots
+	- heat added
+	- init
